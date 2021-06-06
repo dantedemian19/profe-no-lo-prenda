@@ -1,4 +1,4 @@
 # profe-no-lo-prenda
 
 
-programa de gestion de lineas de colectivo?, muy hradcodeado
+programa de gestion de lineas de colectivo?, muy hardcodeado
