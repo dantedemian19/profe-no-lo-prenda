@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1552094187 source:c:\users\csc\desktop\projecvto\main.cpp
+	<iostream>
+	<Windows.h>
+
+1552094187 source:c:\users\csc\desktop\pro\main.cpp
+	<iostream>
+	<Windows.h>
+
